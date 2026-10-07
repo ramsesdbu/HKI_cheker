@@ -1,0 +1,6 @@
+{
+  "name": "Pemeriksaan Substantif Konflik Merek PDKI DJKI",
+  "description": "Sistem analisis kemiripan merek fonetik, visual, leksikal dan pengujian barang/jasa sejenis berdasarkan Pedoman Pemeriksaan Substantif Merek Bagian 5.1.4 DJKI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
